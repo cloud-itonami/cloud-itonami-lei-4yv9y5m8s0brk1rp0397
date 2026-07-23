@@ -133,5 +133,5 @@ If all or any provision of the Terms of Use is found invalid, unenforceable, or 
 " 1 :add]
  ["merck-terms-1" :tos/source-url "https://www.merck.com/terms-of-use/" 1 :add]
  ["merck-terms-1" :tos/retrieved-at "2026-07-19" 1 :add]
- ["merck-terms-1" :tos/sha256 "fe7855e0c6fb61f3bfc242d8bdb9f687886beba368a37f7c75414a7f5824c56b" 1 :add]
+ ["merck-terms-1" :tos/sha256 "4521732e165ecc59e071c6c17dfbed3f73a315b05c3071a811b63f3847095f3c" 1 :add]
  ["merck-terms-1" :tos/doc-type :terms-of-service 1 :add]]
