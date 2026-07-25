@@ -1,4 +1,7 @@
 {:company/legal-name "Merck & Co., Inc."
  :company/lei "4YV9Y5M8S0BRK1RP0397"
  :company/jurisdiction "US-NJ"
- :company/website "https://www.merck.com"}
+ :company/website "https://www.merck.com"
+ :company/contact-email "investor_relations@merck.com"
+ :company/contact-email-note "published as a mailto: link on the company's own site (https://www.merck.com/contact-us/), retrieved 2026-07-25T05:03:02.872Z by scripts/lei-contact-discover.cljs (GET only)"
+ :company/inquiry-form-url "https://www.merck.com/contact-us/"}
